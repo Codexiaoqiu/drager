@@ -238,3 +238,4 @@ export type DragData = {
 | resize | 缩放handle |
 | rotate | 旋转handle |
 
+# drager
